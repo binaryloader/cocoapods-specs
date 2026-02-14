@@ -4,13 +4,13 @@ Pod::Spec.new do |s|
   s.license = { :type => 'MIT' }
   s.homepage = 'https://github.com/binaryloader/binaryloader-network'
   s.authors = { 'binaryloader' => '152517454+binaryloader@users.noreply.github.com' }
-  s.summary = 'Network for iOS application'
-  s.swift_version = '5.0'
+  s.summary = 'Async/await network abstraction layer built on Moya'
+  s.swift_version = '5.6'
 
   s.ios.deployment_target = '13.0'
 
   s.source = { :git => 'https://github.com/binaryloader/binaryloader-network.git', :tag => s.version }
   s.source_files = 'BinaryloaderNetwork/Module/Source/*.swift'
 
-  s.dependency 'Moya', '14.0.0'
+  s.dependency 'Moya', '15.0.0'
 end
