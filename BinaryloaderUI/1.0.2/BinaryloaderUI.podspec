@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.summary = 'Common user interface for iOS application'
   s.swift_version = '5.0'
 
-  s.ios.deployment_target = '11.0'
+  s.ios.deployment_target = '13.0'
 
   s.source = { :git => 'https://github.com/binaryloader/binaryloader-ui.git', :tag => s.version }
 
