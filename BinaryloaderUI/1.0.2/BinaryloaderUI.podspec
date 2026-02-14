@@ -2,14 +2,14 @@ Pod::Spec.new do |s|
   s.name = 'BinaryloaderUI'
   s.version = '1.0.2'
   s.license = { :type => 'MIT' }
-  s.homepage = 'https://github.com/binaryloader/iOS-Binaryloader-UI'
+  s.homepage = 'https://github.com/binaryloader/binaryloader-ui'
   s.authors = { 'binaryloader' => '152517454+binaryloader@users.noreply.github.com' }
   s.summary = 'Common user interface for iOS application'
   s.swift_version = '5.0'
 
   s.ios.deployment_target = '11.0'
 
-  s.source = { :git => 'https://github.com/binaryloader/iOS-Binaryloader-UI.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/binaryloader/binaryloader-ui.git', :tag => s.version }
 
   s.default_subspec = :none
 
