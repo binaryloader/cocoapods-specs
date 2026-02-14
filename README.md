@@ -6,10 +6,10 @@ Private CocoaPods spec repository for iOS utility modules.
 
 | Pod | Latest Version | Description |
 |-----|---------------|-------------|
-| BinaryloaderUI | 1.0.2 | UI components (InsetTextField, etc.) |
-| BinaryloaderNetwork | 1.0.4 | Networking layer |
-| BinaryloaderExtensions | 1.0.2 | Swift extensions |
-| BinaryloaderDIContainer | 1.0.4 | Dependency injection container |
+| BinaryLoaderUI | 1.0.2 | UI components (InsetTextField, etc.) |
+| BinaryLoaderNetwork | 1.0.4 | Networking layer |
+| BinaryLoaderExtensions | 1.0.2 | Swift extensions |
+| BinaryLoaderDIContainer | 1.0.4 | Dependency injection container |
 
 ## Usage
 
